@@ -6,9 +6,9 @@ This project version is V19 and uses Angular Framework which simulates how real 
 To run locally in terminal: ng serve
 
 ## To Clone Repository
-Run git clone in terminal: https://github.com/whereiswx/angularapp.git
+Open any directory and run git clone: https://github.com/whereiswx/angularapp.git
 
-Then cd into the directory (which you created) and run npm install && ng serve to install library while serving the angular project locally.
+Then cd into the directory /angularapp and run npm install && ng serve to install library while serving the angular project locally.
 
 ## Project Features:
 1. User Management
