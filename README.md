@@ -1,59 +1,16 @@
-# AngularApp
+# Simple Web ERP (SWE)
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.0.
+This project version is V19 and uses Angular Framework which simulates how real world application operates in terms of business and educational logic.
 
-## Development server
+## To Server Locally
+To run locally in terminal: ng serve
 
-To start a local development server, run:
+## To Clone Repository
+Run git clone in terminal: https://github.com/whereiswx/angularapp.git
 
-```bash
-ng serve
-```
+Then cd into the directory (which you created) and run npm install && ng serve to install library while serving the angular project locally.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Project Features:
+1. User Management
+2. QR Code Management (Coming Soon)
+3. Prepaid Management (From EGTech, coming soon)
