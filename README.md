@@ -1,4 +1,4 @@
-# Simple Web ERP (SWE)
+# Simple ERP App
 
 This project version is V19 and uses Angular Framework which simulates how real world application operates in terms of business and educational logic.
 
